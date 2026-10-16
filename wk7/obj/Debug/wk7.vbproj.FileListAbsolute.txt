@@ -1,0 +1,26 @@
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.RollTheDice.resources
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.Resources.resources
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\wk7\bin\Debug\wk7.exe.config
+C:\Users\clbog\Dropbox\Carson\wk7\bin\Debug\wk7.exe
+C:\Users\clbog\Dropbox\Carson\wk7\bin\Debug\wk7.pdb
+C:\Users\clbog\Dropbox\Carson\wk7\bin\Debug\wk7.xml
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.exe
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.xml
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.pdb
+C:\Users\clbog\Dropbox\Carson\wk7\obj\Debug\wk7.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\bin\Debug\wk7.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\bin\Debug\wk7.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\bin\Debug\wk7.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\bin\Debug\wk7.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.RollTheDice.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk7\obj\Debug\wk7.pdb

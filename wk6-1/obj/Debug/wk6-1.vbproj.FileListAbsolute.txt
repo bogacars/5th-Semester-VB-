@@ -1,0 +1,24 @@
+C:\Users\clbog\Dropbox\Carson\wk6-1\bin\Debug\wk6-1.exe.config
+C:\Users\clbog\Dropbox\Carson\wk6-1\bin\Debug\wk6-1.exe
+C:\Users\clbog\Dropbox\Carson\wk6-1\bin\Debug\wk6-1.pdb
+C:\Users\clbog\Dropbox\Carson\wk6-1\bin\Debug\wk6-1.xml
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6_1.EtchForm.resources
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6_1.Resources.resources
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.exe
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.xml
+C:\Users\clbog\Dropbox\Carson\wk6-1\obj\Debug\wk6-1.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\bin\Debug\wk6-1.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\bin\Debug\wk6-1.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\bin\Debug\wk6-1.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\bin\Debug\wk6-1.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6_1.EtchForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6_1.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk6-1\obj\Debug\wk6-1.pdb

@@ -1,0 +1,26 @@
+C:\Users\clbog\Dropbox\Carson\Week5\bin\Debug\Week5.exe.config
+C:\Users\clbog\Dropbox\Carson\Week5\bin\Debug\Week5.exe
+C:\Users\clbog\Dropbox\Carson\Week5\bin\Debug\Week5.pdb
+C:\Users\clbog\Dropbox\Carson\Week5\bin\Debug\Week5.xml
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.QyForm.resources
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.Resources.resources
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.exe
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.xml
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.pdb
+C:\Users\clbog\Dropbox\Carson\Week5\obj\Debug\Week5.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\bin\Debug\Week5.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\bin\Debug\Week5.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\bin\Debug\Week5.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\bin\Debug\Week5.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.QyForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Week5\obj\Debug\Week5.pdb

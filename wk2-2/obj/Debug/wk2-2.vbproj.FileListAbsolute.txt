@@ -1,0 +1,26 @@
+C:\Users\clbog\Dropbox\Carson\wk2-2\bin\Debug\wk2-2.exe.config
+C:\Users\clbog\Dropbox\Carson\wk2-2\bin\Debug\wk2-2.exe
+C:\Users\clbog\Dropbox\Carson\wk2-2\bin\Debug\wk2-2.pdb
+C:\Users\clbog\Dropbox\Carson\wk2-2\bin\Debug\wk2-2.xml
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2_2.RLCircuit.resources
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2_2.Resources.resources
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.exe
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.xml
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2-2.pdb
+C:\Users\clbog\Dropbox\Carson\wk2-2\obj\Debug\wk2_2.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\bin\Debug\wk2-2.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\bin\Debug\wk2-2.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\bin\Debug\wk2-2.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\bin\Debug\wk2-2.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2_2.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2_2.RLCircuit.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2_2.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\wk2-2\obj\Debug\wk2-2.pdb

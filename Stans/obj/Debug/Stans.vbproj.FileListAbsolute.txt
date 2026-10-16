@@ -1,0 +1,26 @@
+C:\Users\clbog\Dropbox\Carson\Stans\bin\Debug\Stans.exe.config
+C:\Users\clbog\Dropbox\Carson\Stans\bin\Debug\Stans.exe
+C:\Users\clbog\Dropbox\Carson\Stans\bin\Debug\Stans.pdb
+C:\Users\clbog\Dropbox\Carson\Stans\bin\Debug\Stans.xml
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.StansForm.resources
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.Resources.resources
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.exe
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.xml
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.pdb
+C:\Users\clbog\Dropbox\Carson\Stans\obj\Debug\Stans.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\bin\Debug\Stans.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\bin\Debug\Stans.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\bin\Debug\Stans.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\bin\Debug\Stans.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.StansForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Stans\obj\Debug\Stans.pdb

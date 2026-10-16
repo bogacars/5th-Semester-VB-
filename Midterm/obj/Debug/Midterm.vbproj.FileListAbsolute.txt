@@ -1,0 +1,26 @@
+C:\Users\clbog\Dropbox\Carson\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\clbog\Dropbox\Carson\Midterm\bin\Debug\Midterm.exe
+C:\Users\clbog\Dropbox\Carson\Midterm\bin\Debug\Midterm.pdb
+C:\Users\clbog\Dropbox\Carson\Midterm\bin\Debug\Midterm.xml
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.vbproj.AssemblyReference.cache
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.MidtermForm.resources
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.Resources.resources
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.vbproj.GenerateResource.cache
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.vbproj.CoreCompileInputs.cache
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.exe
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.xml
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.pdb
+C:\Users\clbog\Dropbox\Carson\Midterm\obj\Debug\Midterm.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\bin\Debug\Midterm.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\bin\Debug\Midterm.pdb
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\bin\Debug\Midterm.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.vbprojAssemblyReference.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.AboutForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.MidtermForm.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.Resources.resources
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.vbproj.GenerateResource.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.vbproj.CoreCompileInputs.cache
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.exe
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.xml
+C:\Users\callgera\Dropbox\1 VB class assignments\F2022\Carson\Midterm\obj\Debug\Midterm.pdb
